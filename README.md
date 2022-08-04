@@ -9,6 +9,7 @@ SCRIPT INI KHUSUS PARA SADBOY ANDA SADGIRL
 
 
 #============[ PACKAGE ]===========#
+
 $pkg update && pkg upgrade
 
 $pip install requests && pip install bs4
