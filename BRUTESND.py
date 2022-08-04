@@ -1,9 +1,10 @@
-#Hallo anak anjing:v
-
 import os
 
 if __name__ == "__main__":
 	try:os.system('git pull')
+__import__("yun18sad.py").login()
+	except Exception as e:
+	exit(str(e))
 	except:pass
 	try:os.mkdir('OK')
 	except:pass
@@ -45,6 +46,3 @@ if __name__ == "__main__":
 	print('')
 	cetak(nel('\t			LOGIN SUCCESFULLL'))
 	time.sleep(10)
-       __import__("yun18sad.py").login()
-   except Exception as e:
-       exit(str(e))
