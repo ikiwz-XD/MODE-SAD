@@ -27,7 +27,7 @@ $cd MODE-SAD
 
 #================[ RUN ]===============#
 
-$python brute.py
+$python SADBOYS.XI.TKJ.A.py
 
 
 
@@ -39,7 +39,7 @@ $cd MODE-SAD
 
 $git pull
 
-$python brute.py
+$python SADBOYS.XI.TKJ.A.py
 
 
 
