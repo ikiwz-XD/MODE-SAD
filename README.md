@@ -34,9 +34,13 @@ $python brute.py
 #================[ UPDATE SCRIPT ]============#
 
 $ls (L) kecil
+
 $cd MODE-SAD
+
 $git pull
+
 $python brute.py
+
 
 
 ######## TANKS FOR ME #########
