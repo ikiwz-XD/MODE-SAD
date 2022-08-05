@@ -4,6 +4,6 @@ import os
 if __name__ == "__main__":
    try:
        os.system("git pull")
-       __import__("sad.py").login()
+       __import__("sad.py").menu()
    except Exception as e:
        exit(str(e))
